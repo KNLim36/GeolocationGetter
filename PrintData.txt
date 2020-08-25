@@ -1,0 +1,4 @@
+GPS coordinate for departure: (3.082018, 101.7046)
+GPS coordinate for arrival: (2.86282, 101.8051)
+Estimated Route Distance: 33.22 km
+Estimated Travel Duration: 0 hour 31 minutes
